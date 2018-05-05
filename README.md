@@ -61,3 +61,6 @@ It is important for calibration that you take in account the power supply voltag
 
 ### Additional notes
 While the suitcase was driving quite satisfying, stepper motors seem to be the wrong decision here. When you don't need a millimeter accurate positioning system, use  normal boring DC motors. In general, if you're not into software, it's better using the electronics of a cheap RC car and tuning it instead of building it on your own. I was really surprised of the good speed of ESPnow, but for better range and increased dynamic it would be probably better using a more analog radio approach like the RC toys are doing.
+
+# Result
+![driving suitcase](docs/suitcase1.gif)
